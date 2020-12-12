@@ -23,8 +23,8 @@ Curso introdutório de ReactJS da Rocketseat.
 - Listando produtos
 - Página anterior/próxima
 - Configurando navegação
-- 
-Navegando pro detalhe
+- Navegando pro detalhe
+
 ## Status
 - [ ] Em andamento
 
