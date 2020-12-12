@@ -1,6 +1,6 @@
 <h1 align="center">ReactJS - Rocketseat Starter</h1>
 <h1 align="center">
-  <img alt="react" title="react" src="./app.png" width="400px"/>
+  <img alt="react" title="react" src="./app.jpg" width="400px"/>
 </h1>
 
 ## Objetivo
