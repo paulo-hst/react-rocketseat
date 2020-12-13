@@ -1,0 +1,13 @@
+*{
+    /* remover estilização padrão do HTML */
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box; /* padding não aumenta o width e height dos elementos */
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fafafa;
+    color: #333;
+}
