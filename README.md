@@ -1,10 +1,10 @@
-<h1 align="center">ReactJS - Rocketseat Starter</h1>
+<h1 align="center">Curso ReactJS - Rocketseat Starter</h1>
 <h1 align="center">
   <img alt="react" title="react" src="./app.jpg" width="400px"/>
 </h1>
 
 ## Objetivo
-Curso introdutório de ReactJS da Rocketseat.
+Introdução as funcionalidades básicas do ReactJS.
 
 ## Tecnologias / Ferramentas / Bibliotecas
 - HTML5
