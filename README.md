@@ -4,7 +4,7 @@
 </h1>
 
 ## Objetivo
-Introdução as funcionalidades básicas do ReactJS.
+Conteúdo e exercícios resolvidos do curso introdutório da Rocketseat que apresenta as funcionalidades básicas do ReactJS.
 
 ## Tecnologias / Ferramentas / Bibliotecas
 - HTML5
